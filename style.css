@@ -1,0 +1,169 @@
+body{
+  text-align: center;
+ margin: 0 0 0 0;
+}
+.ten{
+  font-family: 'Kalam', cursive;
+  font-size: 45px;
+}
+.two{
+  width: 80px;
+  height: 80px;
+  float: left;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.three{
+  float: right;
+  padding-right: 100px;
+  padding-top: 70px;
+  word-spacing: 100px;
+  font-size: 25px;
+
+}
+.top{
+  padding-top: 150px;
+  color: #21564b;
+    background-color: #e0ebe8;
+}
+.one{
+  padding-top: 10px;
+  color: #21564b;
+}
+.four{
+    color: #21564b;
+    text-decoration: none;
+}
+.clouds1{
+  position: absolute;
+  left: 170px;
+  top: 230px;
+}
+.clouds2{
+  position:absolute;
+  right: 200px;
+  bottom: 230px;
+}
+.middle{
+
+  padding-top: 80px;
+}
+.img{
+  height: 130px;
+  width: 130px;
+}
+h1{
+ color: #21564b;
+}
+p{
+
+  text-align: center;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-bottom: 25px;
+}
+.dot{
+height: 40px;
+width: 40px;
+}
+.skills{
+
+    margin: 100px auto 100px auto
+}
+.five{
+  margin-left: 320px;
+  height: 150px;
+  width: 150px;
+  float: left;
+}
+.text1{
+  margin-left: 150px;
+  text-align: left;
+
+}
+.text2{
+  margin-left: 500px;
+  text-align: left;
+  color: #21564b;
+}
+.skills{
+  text-align: left;
+}
+.car{
+  margin-right: 350px;
+  height: 150px;
+  width: 150px;
+  float: right;
+}
+
+.text3{
+  margin-left: 350px;
+  text-align: left;
+  color: #21564b;
+}
+.text4{
+  margin-left: 0;
+  text-align: left;
+  margin-right: 160px;
+}
+
+.dot2{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 530px;
+height: 40px;
+width: 40px;
+}
+h2{
+  color: #21564b;
+}
+
+h3{
+    color: #21564b;
+}
+
+.button{
+  background: #3498db;
+  background-image: linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+ -moz-border-radius: 28;
+ border-radius: 28px;
+ font-family: Arial;
+ color: #ffffff;
+ font-size: 20px;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+}
+.button:hover {
+  background: #3cb0fd;
+  background-image:linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom{
+    background-color: #e0ebe8;
+    padding-top: 30px;
+    position: absolute;
+    right: 0;
+    width: 100%;
+}
+.color{
+    background-color: #e0ebe8;
+
+}
+.bottom-link{
+  color: #21564b;
+  text-decoration: none;
+  padding-bottom: 30px;
+
+
+}
+.foot{
+  word-spacing: 30px;
+  font-size: 15px;
+}
+.user{
+  font-size: 20px;
+  color: #21564b;
+}
